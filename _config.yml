@@ -28,7 +28,7 @@ google_maps: 'https://www.google.es/maps/place/Calle+Pinzones,+41008+Sevilla/@37
 address: 36 Calle Pinzones
 postcode: 41008
 city: Sevilla
-country: Spain
+country: España
 google_analytics: UA-90773103-1
 
 # needed for travis-ci build
