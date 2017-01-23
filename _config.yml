@@ -10,10 +10,7 @@ safe: true
 url: http://biomadeira.github.io/vitae
 author: Fábio Madeira
 
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /vitae
 title: Javier Rodriguez's Resume
 name: Javier Rodriguez
 profession: Software engineer
