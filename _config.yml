@@ -1,0 +1,35 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://biomadeira.github.io/vitae
+author: Fábio Madeira
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Javier Rodriguez's Resume
+name: Javier Rodriguez
+email: javier.rodleo@gmail.com
+email_full: mailto:javier.rodleo@gmail.com
+website: github.io/portfolio
+website_full: https://javirln.github.io/portfolio
+github: javirln
+twitter: javirln
+tel: +34 639783538
+tel_full: tel:+34 639783538
+google_maps: 'https://www.google.es/maps/place/Calle+Pinzones,+41008+Sevilla/@37.3982963,-5.9803893,17z/data=!3m1!4b1!4m5!3m4!1s0xd126eabf6274477:0x9fda39ee7ad556e5!8m2!3d37.3982921!4d-5.9782006'
+address: 36 Calle Pinzones
+postcode: 41008
+city: Sevilla
+country: Spain
+google_analytics: UA-90773103-1
+
+# needed for travis-ci build
+exclude: [vendor]
